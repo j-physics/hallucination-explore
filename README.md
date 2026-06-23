@@ -32,7 +32,7 @@ Each output is classified as:
 
 Full write-up with behavioral results, logit-lens analysis, and discussion:
 
-**[docs/MAS10.0_Conf_Leak_Halluc_CLEAN.docx](docs/MAS10.0_Conf_Leak_Halluc_CLEAN.docx)**
+**[docs/MAS10.0_Conf_Leak_Halluc_CLEAN.pdf](docs/MAS10.0_Conf_Leak_Halluc_CLEAN.pdf)**
 
 ### Key findings
 
